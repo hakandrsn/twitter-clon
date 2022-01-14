@@ -1,0 +1,1 @@
+export const pp = "https://pbs.twimg.com/profile_images/1433158616568274956/N94dmFAQ_400x400.jpg"
